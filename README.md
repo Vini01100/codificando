@@ -2,4 +2,4 @@
 - Estou estudando na ALura
 - Estou me desenvolvendo na linguagem JavaScript
 - Uso este espaço para compartilhar meus projetos
-- https://tenor.com/pt-BR/view/s-gif-18019239643814662690
+- https://media1.tenor.com/m/-hEy_Gw1kiIAAAAd/s.gif
